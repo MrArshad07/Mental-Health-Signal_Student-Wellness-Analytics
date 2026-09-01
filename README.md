@@ -14,6 +14,11 @@
 
 👉 https://mental-health-score-prediction-1-ycv1.onrender.com/
 
+## 🖥️ Application Preview
+
+<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/116b2d0c-074d-4962-8e0d-6b0a85640a53" />
+<img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/80fd6305-41fe-4112-ba0f-efeaec0eaf14" />
+
 The application provides an interactive interface where users enter behavioral, academic, digital-usage and lifestyle information and receive a predicted mental-health score on a 0–10 scale.
 
 > ⚠️ **Important:** This project is for educational and informational purposes only. It is not a clinical assessment, diagnosis, or medical recommendation.
